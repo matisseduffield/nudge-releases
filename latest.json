@@ -1,0 +1,11 @@
+{
+  "versionCode": 10209,
+  "versionName": "1.2.9",
+  "apk": "https://raw.githubusercontent.com/matisseduffield/nudge-releases/main/Nudge-v1.2.9.apk",
+  "size": 271386,
+  "sha256": "22a0b4f70f17a80528d54be0be3c38856acde5e95008e1efa3d3e7cd78dac873",
+  "publishedAt": "2026-11-07T13:06:48Z",
+  "notes": [
+    "With large text, the date and time fields sit one above the other so AM/PM and the year stay visible"
+  ]
+}
