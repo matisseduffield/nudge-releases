@@ -1,0 +1,11 @@
+{
+  "versionCode": 10602,
+  "versionName": "1.6.2",
+  "apk": "https://raw.githubusercontent.com/matisseduffield/nudge-releases/main/Nudge-v1.6.2.apk",
+  "size": 355790,
+  "sha256": "064b2c1a779fcd385e56dfff51ebe72a5c4b26f5fbc4070e81e612c786eb8408",
+  "publishedAt": "2026-11-12T04:27:00Z",
+  "notes": [
+    "Nudge 1.6.2"
+  ]
+}
