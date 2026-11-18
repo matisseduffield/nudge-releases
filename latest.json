@@ -1,0 +1,15 @@
+{
+  "versionCode": 10801,
+  "versionName": "1.8.1",
+  "apk": "https://raw.githubusercontent.com/matisseduffield/nudge-releases/main/Nudge-v1.8.1.apk",
+  "size": 363546,
+  "sha256": "9a8cdfc314d9d1f94d5c0296d17426c8befd11510eb513fdf0a787f26748c7fc",
+  "publishedAt": "2026-11-18T06:39:06Z",
+  "notes": [
+    "Tick a task off straight from its page",
+    "The bell only shows when a reminder can still ring",
+    "Tapping a reminder stops its nudging on Android, as on iPhone",
+    "Undo stays in reach when you change page",
+    "Long titles show in full when editing"
+  ]
+}
